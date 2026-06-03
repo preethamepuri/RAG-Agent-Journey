@@ -1,0 +1,57 @@
+Query: Is abortion morally just?
+
+RETRIEVED CHUNKS
+
+on is whether abortion is morally permissible, and if 
+so, under what conditions. Different philosophers answer this differently depending on how 
+they understand personhood, rights, and moral responsibility. 
+A common anti-abortion argument begins with the claim that the fetus is a human being, or 
+a person, from the moment of conception. Since every person has a right to life, the fetus 
+also has a right to life. Therefore, abortion is considered morally wrong because it involves 
+killing an i
+
+====================================================================================================
+
+g line, 
+many people argue that moral protection should begin at conception itself. If this is true, 
+abortion becomes morally wrong because it destroys a being that already has a right to life. 
+This view is strong because it protects innocent human life. It avoids judging moral worth 
+based on age, intelligence, or physical development. If adults and infants deserve rights 
+because they are human beings, embryos may also deserve the same respect since they are 
+simply the earliest stage of hum
+
+====================================================================================================
+
+ to life does not always outweigh the woman’s bodily 
+autonomy. 
+Thomson also rejects the “extreme view” that abortion is wrong even when continuing the 
+pregnancy will kill the mother. If both mother and fetus are persons with equal right to life, it 
+is unreasonable to expect only the mother to sacrifice herself. A woman has the right to 
+defend her own life, even if doing so results in the death of the fetus . 
+In conclusion, abortion is morally complex because it involves conflicting rights.
+
+====================================================================================================
+
+BASIC PROMPT
+Answer the question using ONLY the context below.
+Context:{context}
+Question:{query}
+
+When i used the basic prompt and asked the query, I got this output
+
+Whether abortion is morally just depends on how personhood, rights, and moral responsibility are understood. Different philosophers answer this differently. The context states that abortion is considered morally wrong by some because it is seen as destroying a being with a right to life. However, it also mentions that the fetus's right to life does not always outweigh the woman's bodily autonomy, and rejects the view that abortion is wrong even when it kills the mother. In conclusion, the context states that abortion is morally complex because it involves conflicting rights.
+
+IMPROVED PROMPT
+You are a helpful assistant.
+Answer ONLY from the provided context.
+If the answer is not in the context, say: "I could not find the answer in the document."
+Context:{context}
+Question:{query}
+
+But when i used the improved prompt, I got this output
+
+I could not find the answer in the document.
+
+But when i ran it using the improved prompt again without making any changes, I got this output
+
+Different philosophers answer this question differently, and the document concludes that abortion is morally complex because it involves conflicting rights. It does not state definitively that abortion is morally just.
