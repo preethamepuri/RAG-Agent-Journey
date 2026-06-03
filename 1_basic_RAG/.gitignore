@@ -2,5 +2,3 @@
 __pycache__/
 *.pyc
 myenv
-data/*
-!data/.gitkeep
