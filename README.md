@@ -120,7 +120,7 @@ RAG-Agent-Journey/
 │   ├── README.md
 │   └── ...
 │
-├── 2_multi_pdf_rag/
+├── 2_advanced_multi_pdf_RAG/
 │   ├── README.md
 │   └── ...
 │
