@@ -1,0 +1,6 @@
+.env
+__pycache_
+myenv/
+storage/*.index
+storage/*.pkl
+data/*
